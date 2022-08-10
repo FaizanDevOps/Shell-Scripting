@@ -1,6 +1,10 @@
 #!bin/bash
 
+<<<<<<< HEAD
 
 echo "I will be a great devops engineer"
 
 always remmeber that 
+=======
+echo "Hello WOrld"
+>>>>>>> origin
